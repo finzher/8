@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const STORAGE_KEY = 'feedback_form_data';
     
     // URL для отправки формы (ВАШ УНИКАЛЬНЫЙ КОД)
-    const FORM_SUBMIT_URL = 'https://formspree.io/f/meejqlzw';
+    const FORM_SUBMIT_URL = 'https://formspree.io/f/mgownazv';
     
     // Инициализация
     function init() {
